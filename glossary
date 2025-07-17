@@ -745,7 +745,7 @@
 	<li><strong>Rule 144:</strong> An SEC rule that regulates the following:
 		<ul>
 			<li>Investors who buy securities issued privately (restricted stock) in which investors must wait for at least 6 months to sell the securities publicly.</li>
-			<li>Insiders who sell securities fo the company purchased privately (restricted stock) or purchased publicly (control stock) in which they may not sell more than 1 percent of the issuer's outstanind shars or the average weekly trading volume over the previous four weeks, whichever is greater every 90 days.</li>
+			<li>Insiders who sell securities for the company purchased privately (restricted stock) or purchased publicly (control stock) in which they may not sell more than 1 percent of the issuer's outstanind shars or the average weekly trading volume over the previous four weeks, whichever is greater every 90 days.</li>
 		</ul></li>
 
 	<li><strong>Rule 144A (portal market):</strong> Provides an exemption for QIBs (qualified institutional buyers) that buy securities issued through issued through private placements. QIBs can sell restricted stock to other QIBs immediately after purchase.</li>
@@ -863,5 +863,63 @@
 
 	<li><strong>Treasury Bond (T-Bond):</strong> A debt security issued by the U.S. government and backed by its full faith and credit. T-bonds are issued with maturities of 10 years to 30 years.</li>
 
-	"'HelloWorld' C:\~ Ctrl+Y to redo"	//?
+	<li><strong>Treasury Inflation Protected Security (TIPS):</strong> A debt security issued by the U.S. government and backed by its full faith and credit. TIPS are issued with 5-,10-, and 30-year maturities. Coupon rate remains fixed, but par value adjusts according to inflation.</li>
+
+	<li><strong>Treasury note (T-note):</strong> A debt security issued by the U.S. government and backed by its full faith and credit. T-notes are issued with maturities of greater than one year to 10 years.</li>
+
+	<li><strong>Treasury stock:</strong> Number of shares issued and repurchased by a company; no votes or dividends.</li>
+
+	<li><strong>Treasury strips:</strong> Bonds issued by the U.S. Treasury with 10-30 year maturities an no coupon rates; issued at deep discounts.</li>
+
+	<li><strong>Triple tax-free municipal bonds:</strong> These are bonds issued by U.S. territories such as Puerto Rico, Guam, U.S. Virgin Islands, American Samoa, and Washington D.C. The interest received from these bonds are free from federal, state, and local taxes.</li>
+
+	<li><strong>Trough:</strong> Stage of an economic cycle in which the economy is at its worst.</li>
+
+	<li><strong>Trust account:</strong> An account established by a grantor with an attorney through a trust agreement, a trust account includes at least one grantor who contributes the assets, at least one beneficiary who benefits from the investments made, and at least one trustee who manages the acount.</li>
+
+	<li><strong>Trust Indenture Act:</strong> This act, formerly called the Trust Indenture Act of 1939, prohibits bond issues valued at more than $50 million (originally $5 million) from being offered to investors without an indenture. The trust indenture is a written agreement that protects investors by disclosing the particulars of the issue (the coupon rate, the maturity date, any collateral backing the bond, and so on). As part of the Trust Indenture Act, all companies must
+	hire a trustee who's reponsible for protecting the rights of bondholders.</li>
+
+	<li><strong>Two-dollar broker (independent brokers):</strong> These brokers assist other exchange floor brolkers in getting orders executed on busy days.</li>
+
+	<li><strong>U4 form:</strong> A FINRA form required to be submitted for financial professionals, such as registered reps.</li>
+
+	<li><strong>UGMA (Uniform Gift to Minors Act) account:</strong> An account managed by a custodian (adult) for the benefit of a minor in which the minor assumes full control of assets when becoming an adult.</li>
+
+	<li><strong>Unaccredited investor:</strong> According to the Securities Act of 1933, an unaccredited investor is a small and inexperienced investor who may or may not be able to invest in securities issued through private placements.</li>
+
+	<li><strong>Underlying stock:</strong> The stock that the owner of the option has the right to buy or sell at a fixed price.</li>
+
+	<li><strong>Underwriter (investment banker):</strong> A brokerage firm that buys newly issued securities form issuers and sells them to the public at higher prices.</li>
+
+	<li><strong>Unit Investment Trust (UIT):</strong> Investment company with a fixed portfolio pf securities with no investment adviser and no board of directors. Units are purchased from the issuer and redeemed with the issuer.</li>
+
+	<li><strong>Unsolicited order:</strong> An order entered by a customer, which was not recommended by an agent, BD, IA, or IAR.</li>
+
+	<li><strong>U.S. government securities:</strong> These debt securities are issued by the U.S. government and include Treasury Bills, Treasury Notes, Treasury Bonds, Treasury Inflation Protected Securities, and so on.</li>
+
+	<li><strong>UTMA (Uniform Transfer to Minors Account):</strong> An account managed by a custodian for the benefit of a minor which the minor may have to wait until age 25 to assume full control of the account. The account may include real estate, art, royalties, and patents. The custodian can get paid by the minor for managing the assets.</li>
+
+	<li><strong>Variable annuities:</strong> Retirement plans issued by insurance companies in which the amount received at retirement as a lump sum or the amount of monthly withdrawls for life are not guaranteed.</li>
+
+	<li><strong>Variable life:</strong> Life insurance with fixed premiums, minimum guaranteed death benefits that may fluctuate, but cash value that is not guaranteed.</li>
+
+	<li><strong>Variable universal life (VUL):</strong> Life insurance with flexible premium payments, fluctuating death benefits with no minimums, and fluctuateing cash value with no minimums.</li>
+
+	<li><strong>Warrants:</strong> Allow investors to buy stock at a fixed price from the issuing company. Warrants are issued as sweetners to new stock or bond offerings to make the new securities more attractive. They have long-term expirations (or my be perpetual without expiration) since they are out of the money when first issued.</li>
+
+	<li><strong>Wash sale:</strong>
+		<ul>
+			<li>Sale of securities at a capital loss and repurchase of the same securities or securities are convertible into securitites sold within 30 days or less prior to or after the sale. The capital losses on the securities sold are disallowed based on the number of securities purchased. The disallowed loss is added to the cost basis of securities purchased.</li>
+			<li>Illegal manipulation of the price of a security in which two persons trade a security back and forth with each other to artificially move the price of a security up or down.</li>
+		</ul></li>
+
+	<li><strong>Yield to call:</strong> Annual overall rate of return based on coupon rate, market price, and amount of time until maturity. YTM is the most accurate way to compare the rates of return on bonds and to indicate the price volatility or duration of bonds.</li>
+
+	<li><strong>Yield to maturity (basis):</strong> Annual overall rate of return based on coupon based on coupon rate, market price, and amount of time until maturity. YTM is the most accurate way to compare the rates of return on bonds and to indicate the price volatility or duration of bonds.</li>
+
+	<li><strong>Yield to worst:</strong> Relating to bonds, the yield to worst is the lower of the yield to maturity and the yield to call (including if the bond was called at any of the call dates).</li>
+
+	<li><strong>Zero-coupon bond:</strong> A long-term bond with no coupon rate, a zero-coupon bond is issued at a deep discount. This bond has a high duration (price volatility) and may be used to plan for a future event such as college tuition.</li>
+
 </body></html>
