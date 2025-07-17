@@ -745,7 +745,7 @@
 	<li><strong>Rule 144:</strong> An SEC rule that regulates the following:
 		<ul>
 			<li>Investors who buy securities issued privately (restricted stock) in which investors must wait for at least 6 months to sell the securities publicly.</li>
-			<li>Insiders who sell securities for the company purchased privately (restricted stock) or purchased publicly (control stock) in which they may not sell more than 1 percent of the issuer's outstanind shars or the average weekly trading volume over the previous four weeks, whichever is greater every 90 days.</li>
+			<li>Insiders who sell securities for the company purchased privately (restricted stock) or purchased publicly (control stock) in which they may not sell more than 1 percent of the issuer's outstanding shares or the average weekly trading volume over the previous four weeks, whichever is greater every 90 days.</li>
 		</ul></li>
 
 	<li><strong>Rule 144A (portal market):</strong> Provides an exemption for QIBs (qualified institutional buyers) that buy securities issued through issued through private placements. QIBs can sell restricted stock to other QIBs immediately after purchase.</li>
